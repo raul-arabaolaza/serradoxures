@@ -2,3 +2,17 @@
 2024-12-13T10:52:22.048Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
 2024-12-13T10:52:22.048Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
 2024-12-13T10:52:22.048Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2025-01-05T16:24:13.380Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2025-01-05T16:24:13.381Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2025-01-05T16:24:13.381Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2025-01-05T16:24:13.381Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2025-01-05T16:24:13.573Z thumbsup:warn ENOENT: no such file or directory, scandir 'D:\Fotos\EXPORTS\Reparade\gallery\*.jpg'
+2025-01-05T16:25:13.559Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2025-01-05T16:25:13.560Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2025-01-05T16:25:13.560Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2025-01-05T16:25:13.560Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2025-01-05T16:25:13.746Z thumbsup:warn ENOENT: no such file or directory, scandir 'D:\Fotos\EXPORTS\Reparade\gallery\*.jpg'
+2025-01-05T16:25:44.420Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2025-01-05T16:25:44.421Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2025-01-05T16:25:44.421Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2025-01-05T16:25:44.421Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
